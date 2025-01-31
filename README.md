@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 AI Career Coach - Full Stack React Project
 
-## Getting Started
+AI-powered tools for job seekers to create resumes, cover letters, and prepare for interviews.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **AI Resume Builder**: Generate professional resumes using AI-driven templates and content suggestions.
+- **Cover Letter Generator**: Create tailored cover letters in minutes.
+- **AI Interview Prep**: Get interview questions and tips powered by AI.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+| **Technology**       | **Description**                                      |
+|----------------------|------------------------------------------------------|
+| **Frontend**          | Next.js, Tailwind CSS, ShadCN UI – Modern UI design and powerful React framework for the frontend |
+| **Backend**           | Prisma ORM, PostgreSQL – Efficient data management and database handling |
+| **AI Integration**    | Gemini AI – Provides AI-driven resume analysis and interview prep |
+| **Authentication**    | Clerk – Secure authentication for users |
+| **Deployment**        | Vercel – Seamless deployment and hosting |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Resume Builder | Cover Letter Generator | AI Interview Prep |
+|-----------------|------------------------|-------------------|
+| ![Resume Builder](https://your-image-url.com) | ![Cover Letter](https://your-image-url.com) | ![Interview Prep](https://your-image-url.com) |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧑‍💻 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request.
+
+### Steps to Contribute:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-xyz`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add feature xyz'`)
+5. Push to the branch (`git push origin feature-xyz`)
+6. Submit a pull request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 🙏 Acknowledgements
+
+- **Next.js** – React framework used for building the app
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **Gemini AI** – Powers the AI resume and interview features
+- **Prisma ORM** – Simplifies database management
+- **Clerk** – Authentication provider
