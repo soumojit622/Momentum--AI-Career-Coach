@@ -12,29 +12,29 @@ Momentum is an AI-powered career coaching platform that provides personalized to
 
 ## 📋 **Features**
 
-- **AI Resume Builder**: ✍️ Generate a professional and optimized resume tailored to your skills, experiences, and target job roles. The AI offers suggestions for formatting, ATS (Applicant Tracking System) optimizations, and content recommendations.
-  
-- **AI Cover Letter Generator**: 📝 Craft customized, professional cover letters that align with your resume and the job description. The AI tailors the tone, structure, and content to highlight your strengths and skills effectively.
-  
-- **AI Interview Preparation**: 🎤 Receive tailored interview questions, tips, and mock interviews to help you prepare for any job interview. The AI provides feedback and suggestions for improvement, allowing users to refine their interview performance.
-  
-- **Career Progress Tracker** (Coming Soon) 📊: Track the progress of your job applications, including submission dates, follow-ups, interviews, and job offers. This feature helps you stay organized and ensures that you never miss a deadline.
+- **AI Resume Builder** ✍️: Generate a professional and optimized resume tailored to your skills, experiences, and target job roles. The AI offers suggestions for formatting, ATS (Applicant Tracking System) optimizations, and content recommendations. 
 
-- **Job Application Tracker** (Coming Soon) 📑: Stay organized by tracking all job applications in one place. Get notified about interview schedules, application status updates, and follow-ups directly through the platform.
+- **AI Cover Letter Generator** 📝: Craft customized, professional cover letters that align with your resume and the job description. The AI tailors the tone, structure, and content to highlight your strengths and skills effectively.
+
+- **AI Interview Preparation** 🎤: Receive tailored interview questions, tips, and mock interviews to help you prepare for any job interview. The AI provides feedback and suggestions for improvement, allowing users to refine their interview performance.
+
+- **Career Progress Tracker** 📊 (Coming Soon): Track the progress of your job applications, including submission dates, follow-ups, interviews, and job offers. Stay organized and ensure that you never miss a deadline.
+
+- **Job Application Tracker** 📑 (Coming Soon): Stay organized by tracking all job applications in one place. Get notified about interview schedules, application status updates, and follow-ups directly through the platform.
 
 - **Job Market Insights** 📈: Receive real-time updates about the job market, including salary trends, in-demand skills, and emerging career opportunities tailored to your profile.
 
 - **Personalized Career Growth Insights** 💡: Get AI-driven recommendations and insights based on your resume and career goals. These include areas of improvement, potential career paths, and job openings that match your qualifications.
 
-- **Networking Opportunities** (Coming Soon) 🌐: Access networking events and opportunities to connect with professionals in your industry, mentors, and potential employers.
+- **Networking Opportunities** 🌐 (Coming Soon): Access networking events and opportunities to connect with professionals in your industry, mentors, and potential employers.
 
-- **Customizable Templates** (Coming Soon) 🎨: Choose from a wide range of professionally designed resume and cover letter templates, allowing you to personalize your career documents further.
+- **Customizable Templates** 🎨 (Coming Soon): Choose from a wide range of professionally designed resume and cover letter templates, allowing you to personalize your career documents further.
 
 - **Interview Simulator** 🎬: Practice mock interviews with AI-generated questions, providing realistic interview scenarios and feedback based on your answers.
 
 - **Career Path Suggestions** 🚀: AI-driven career paths that suggest potential career changes, side projects, or growth in your current field based on your skills and interests.
 
-- **Job Search Assistant** (Coming Soon) 🔍: Receive job alerts and recommendations based on your resume profile. The assistant will send notifications on new job openings and help you stay up-to-date with the latest hiring trends.
+- **Job Search Assistant** 🔍 (Coming Soon): Receive job alerts and recommendations based on your resume profile. The assistant will send notifications on new job openings and help you stay up-to-date with the latest hiring trends.
 
 ---
 
@@ -59,14 +59,14 @@ This project leverages the best-in-class tools and frameworks to deliver a robus
 
 ## ⚙️ **How It Works**
 
-1. **Sign Up / Sign In**: 📝 Create an account or sign in using Clerk for personalized features like saving your resumes, cover letters, and interview progress.
-2. **Generate Your Resume**: 🖋️ Input your personal details, career objective, skills, and experience, and let the AI generate a polished, professional resume tailored for your target job.
-3. **Create a Tailored Cover Letter**: 📨 Provide the job description and your resume, and let the AI generate a personalized cover letter that emphasizes your strengths and aligns with the role you're applying for.
-4. **Prepare for Your Interview**: 🎤 Browse through a list of interview questions relevant to your job role, practice answering them, and receive AI-driven feedback to improve your responses.
-5. **Track Job Applications**: 📊 Keep a record of your applications, follow-up dates, interviews, and job offers, all in one centralized dashboard.
-6. **Monitor Career Insights**: 📈 Get actionable recommendations based on your resume, job search history, and AI analysis, including emerging job roles and skill-building suggestions.
-7. **Track Your Skill Development**: 🧑‍🎓 Input your current skills and receive tailored learning paths and courses to build up the skills needed for your ideal job.
-8. **Mock Assessments**: 📝 Take technical or situational assessments to prepare for job-specific tests.
+1. **Sign Up / Sign In** 📝: Create an account or sign in using Clerk for personalized features like saving your resumes, cover letters, and interview progress.
+2. **Generate Your Resume** 🖋️: Input your personal details, career objective, skills, and experience, and let the AI generate a polished, professional resume tailored for your target job.
+3. **Create a Tailored Cover Letter** 📨: Provide the job description and your resume, and let the AI generate a personalized cover letter that emphasizes your strengths and aligns with the role you're applying for.
+4. **Prepare for Your Interview** 🎤: Browse through a list of interview questions relevant to your job role, practice answering them, and receive AI-driven feedback to improve your responses.
+5. **Track Job Applications** 📊: Keep a record of your applications, follow-up dates, interviews, and job offers, all in one centralized dashboard.
+6. **Monitor Career Insights** 📈: Get actionable recommendations based on your resume, job search history, and AI analysis, including emerging job roles and skill-building suggestions.
+7. **Track Your Skill Development** 🧑‍🎓: Input your current skills and receive tailored learning paths and courses to build up the skills needed for your ideal job.
+8. **Mock Assessments** 📝: Take technical or situational assessments to prepare for job-specific tests.
 
 ---
 
